@@ -35,7 +35,7 @@
 ## 📬 Contact Information
 
 - 💬 Discord: `xiaokuai` (or legacy `kuai#2155`)
-- 📧 Email: `drangon.ak009@gmail.com` *(Looking to set up a custom domain email soon!)*
+- 📧 Email: `mail@xiaokuai.me`
 
 ---
 
