@@ -17,7 +17,6 @@
 - 🌱 Currently diving deep into **C++**, **Assembly**, **HTML**, **CSS**, **Python**, and **JavaScript**.
 - 🎯 My goal is to build fun and useful open-source projects, and eventually become a professional game developer.
 - ⚡ In my free time, I love tweaking code, playing games, and researching PC hardware.
-
 ---
 
 ## 📊 GitHub Stats Extended
@@ -35,8 +34,8 @@
 ## 📬 Contact Information
 
 - 💬 Discord: `xiaokuai` (or legacy `kuai#2155`)
-- 📧 Email: `mail@xiaokuai.me`
-
+- 📧 Email: [mail@xiaokuai.me](mailto:mail@xiaokuai.me)
+- 🌐 Website: [https://xiaokuai.me](https://xiaokuai.me)
 ---
 
 <div align="center">
