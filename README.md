@@ -14,7 +14,7 @@
 ## 🛠️ About Me
 
 - 💻 I am currently a Year 1 Semester 1 Computer Science student at **TAR UMT**.
-- 🌱 Currently diving deep into **C++** and **Assembly** language.
+- 🌱 Currently diving deep into **C++**, **Assembly**, **HTML**, **CSS**, and **JavaScript**.
 - 🎯 My goal is to build fun and useful open-source projects, and eventually become a professional game developer.
 - ⚡ In my free time, I love tweaking code, playing games, and researching PC hardware.
 
